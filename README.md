@@ -53,6 +53,7 @@ Installation
 
 **Method 1**
 ```Shell
+sudo apt-get install dialog apt-utils
 curl -L https://install.pivpn.io | bash
 ```
 
